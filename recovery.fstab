@@ -1,0 +1,2 @@
+/frp      emmc     /dev/block/bootdevice/by-name/config     flags=display=frp
+/misc     emmc     /dev/block/bootdevice/by-name/misc       flags=display=misc
